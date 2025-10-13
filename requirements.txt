@@ -1,0 +1,9 @@
+langchain
+openai
+transformers
+sentencepiece
+accelarate
+bitsandbytes
+python-dotenv
+ollama
+langchain-ollama
