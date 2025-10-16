@@ -7,3 +7,14 @@ bitsandbytes
 python-dotenv
 ollama
 langchain-ollama
+langchain-google-genai
+pandas
+nlt
+unstructured
+wikipedia
+chromadb
+pypdf
+pdfminer.six
+langchain-community
+nltk
+tiktoken
