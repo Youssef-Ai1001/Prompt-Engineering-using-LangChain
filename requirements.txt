@@ -18,3 +18,7 @@ pdfminer.six
 langchain-community
 nltk
 tiktoken
+unstructured
+langchain-cohere
+faiss-cpu
+langchain-chroma
